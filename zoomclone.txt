@@ -1,0 +1,13 @@
+***ZOOM NODEJS CLONE***
+1. Install express - it is ussed to build web applications and is a nodejs framework
+2. npm install ejs for using html in javascript
+navigator.mediaDevices.getUserMedia({ this gives the ability of video/audio
+
+Promise is an event in javascript which is either resolved or rejected in future
+3. npm install socket.io :- it is used for real time communication (FEATURING THE FASTEST AND MOST RELIABLE REAL-TIME ENGINE)
+Socket.IO is a library that enables real-time, bidirectional and event-based communication between the browser and the server. It consists of:
+
+a Node.js server: Source | API
+a Javascript client library for the browser (which can be also run from Node.js): Source | API
+TO send stream between different people we use peer.js
+WEBRTC - WebRTC is a free, open-source project that provides web browsers and mobile applications with real-time communication via simple application programming interfaces.
